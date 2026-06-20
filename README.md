@@ -72,8 +72,8 @@ This project is an interactive Power BI dashboard developed using the Superstore
 **Tarun Singh**
 
 ### Connect With Me
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+- GitHub: [https://github.com/tarun-1719
+- LinkedIn: https://www.linkedin.com/in/tarun-singh-072412369/
 
 ---
 ⭐ If you found this project useful, consider giving it a star!
